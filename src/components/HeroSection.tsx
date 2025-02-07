@@ -52,7 +52,7 @@ const HeroSection = () => {
               <br />
               for Your Success
             </h1>
-            <p className="text-xl text-primary-100 mb-8 max-w-2xl">
+            <p className="hidden md:block text-xl text-primary-100 mb-8 max-w-2xl">
               Certified Financial Consultant with 3+ years of experience helping
               individuals and businesses optimize their financial strategies and
               tax positions.
